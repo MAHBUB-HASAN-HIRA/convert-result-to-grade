@@ -91,4 +91,7 @@ input:focus{
         .btn-success{
             margin-left: 15px;
         }
+        .select_op{
+            width: 100%;
+        }
 }
